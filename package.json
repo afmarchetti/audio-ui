@@ -38,7 +38,7 @@
   "name": "audio-ui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afmarchetti/audio-ui.git"
+    "url": "https://github.com/afmarchetti/audio-ui.git"
   },
   "theme": "ui",
   "version": "1.0.7"
